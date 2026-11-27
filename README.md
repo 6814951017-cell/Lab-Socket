@@ -15,4 +15,4 @@
 ### ขั้นตอนการเริ่มทำงาน (How to run)
 1. เปิด Terminal และเข้าไปที่โฟลเดอร์แบบฝึกหัดที่ 1:
    ```bash
-   cd exercise-1
+   cd chat-app
