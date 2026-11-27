@@ -16,3 +16,4 @@
 1. เปิด Terminal และเข้าไปที่โฟลเดอร์แบบฝึกหัดที่ 1:
    ```bash
    cd chat-app
+   cd socket
